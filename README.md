@@ -2,7 +2,7 @@
   <img src="unipi_logo.png" alt="University of Piraeus" width="100" /> 
 </p>
 
-<h2 align="center">University of Piraeus, MSc in Information Systems and Services</h2>
+<h3 align="center">University of Piraeus, MSc in Information Systems and Services</h3>
 
 <p align="center">
   This repository contains the projects implemented during my MSc in Information Systems and Services at the University of Piraeus.<br>
