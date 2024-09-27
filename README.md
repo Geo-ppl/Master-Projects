@@ -8,3 +8,5 @@
   This repository contains the projects implemented during my MSc in Information Systems and Services at the University of Piraeus.<br>
   It includes various applications and research tasks focused on data analysis, software development, machine learning, and advanced information systems.
 </p>
+
+## Projects
