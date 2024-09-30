@@ -67,7 +67,7 @@ The project demonstrates the use of JavaFX for GUI development and Java for back
 - Navigate to the directory where the JAR file is located and use the following command in the terminal:
 
 ```bash
-java -jar countries-fx-1.0-SNAPSHOT-jar-with-dependencies.jar
+   java -jar countries-fx-1.0-SNAPSHOT-jar-with-dependencies.jar
  ```
 
 ## Authors:  
