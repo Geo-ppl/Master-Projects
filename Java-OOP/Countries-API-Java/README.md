@@ -26,7 +26,9 @@ The project demonstrates the use of JavaFX for GUI development and Java for back
 - **Table Display:** The country data is retrieved from the API and displayed in a table format, showing the Name, Capital, Language, Currency, Population, and Continent of each country.
 - **Recent Searches:** A list of recent searches is maintained and displayed in a ListView component. Users can click on a previous search to rerun the query.
 
-<img src="./images/GUI.png" alt="GUI Image" width="500"/>
+<div align="center">
+  <img src="./images/GUI.png" alt="GUI Image" width="500"/>
+</div>
 
 ## Installation and Setup
 
