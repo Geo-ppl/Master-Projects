@@ -5,7 +5,7 @@
 <h3 align="center">University of Piraeus, MSc in Information Systems and Services</h3>
 
 <p align="center">
-  This repository contains the projects implemented during my MSc in Information Systems and Services at the University of Piraeus.<br>
+  This repository contains some of the projects implemented during my MSc in Information Systems and Services at the University of Piraeus.<br>
   It includes various applications and research tasks focused on data analysis, software development, machine learning, and advanced information systems.
 </p>
 
